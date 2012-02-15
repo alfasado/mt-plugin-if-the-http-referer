@@ -9,4 +9,4 @@ l10n_class: IfTheHTTPReferrer::L10N
 tags:
     block:
         IftheHTTPReferrer?: $ifthehttpreferrer::IfTheHTTPReferrer::Tags::hdlr_ifthehttpreferrer
-        IftheHTTPReferrer?: $ifthehttpreferrer::IfTheHTTPReferrer::Tags::hdlr_ifthehttpreferrer
+        IfHTTPReferrer?: $ifthehttpreferrer::IfTheHTTPReferrer::Tags::hdlr_ifthehttpreferrer
