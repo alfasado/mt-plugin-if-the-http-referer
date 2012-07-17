@@ -1,0 +1,14 @@
+name: IfTheHTTPReferer
+id:   IfTheHTTPReferer
+key:  ifthehttpreferer
+author_name: Alfasado Inc.
+author_link: http://alfasado.net/
+version: 0.1
+description: '<__trans phrase="Conditional Tags MTIfTheHTTPReferer or MTIfHTTPReferer.">'
+l10n_class: IfTheHTTPReferer::L10N
+tags:
+    block:
+        IftheHTTPReferer?: $ifthehttpreferer::IfTheHTTPReferer::Tags::hdlr_ifthehttpreferer
+        IfHTTPReferer?: $ifthehttpreferer::IfTheHTTPReferer::Tags::hdlr_ifthehttpreferer
+        IftheHTTPReferrer?: $ifthehttpreferer::IfTheHTTPReferer::Tags::hdlr_ifthehttpreferer
+        IfHTTPReferrer?: $ifthehttpreferer::IfTheHTTPReferer::Tags::hdlr_ifthehttpreferer
